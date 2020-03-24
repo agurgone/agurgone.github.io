@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2019-spring-teaching-1
 venue: "Universität Bamberg"
-date: 2019-2020
+date: 2019-11-01
 location: "Bamberg, Germany"
 ---
 
