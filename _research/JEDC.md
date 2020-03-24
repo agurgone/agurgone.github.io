@@ -3,7 +3,7 @@ title: "The Effects of Interbank Networks on Efficiency and Stability in a Macro
 collection: publications
 permalink: /publication/JEDC
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2018
+date: 2018-02-01
 venue: 'Journal of Economic Dynamics and Control'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 #citation: 'Your Name, You. (2018). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
