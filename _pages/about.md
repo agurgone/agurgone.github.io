@@ -17,4 +17,3 @@ Research interests
           * Macro-financial interactions
           * Financial networks & systemic-risk
           * Macroprudential regulation
-		  s
