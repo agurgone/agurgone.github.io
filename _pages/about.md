@@ -12,7 +12,8 @@ I am post-doctoral research fellow at the Institute for Economics at the Univers
 
 Research interests
 ======
-          * r1
-          * r2
-          * r3
-          * r4
+          * Complexity economics
+		  * Agent-based modelling
+          * Macro-financial interactions
+          * Financial networks & systemic-risk
+          * Macroprudential regulation
