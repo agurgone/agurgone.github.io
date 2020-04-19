@@ -3,7 +3,7 @@ title: "The risk of being all alike: macroprudential capital buffers for SIFIs a
 collection: research
 permalink: /research/WP2
 #excerpt: 'Working paper'
-date: 2020-05-01
+#date: 2020-05-01
 #venue: 'mimeo'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
