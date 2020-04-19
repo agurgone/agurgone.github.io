@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am post-doctoral research fellow at the Institute for Economics at the University of Bamberg.
+I am a post-doctoral research fellow at the Institute for Economics at the University of Bamberg.
+
 
 Research interests
 ======
+My research aims to unveil the complex nature of macroeconomics and to investigate real-financial interactions.
+
+		  * Agent-based models
           * Complexity economics
-		  * Agent-based modelling
           * Macro-financial interactions
           * Financial networks & systemic-risk
           * Macroprudential regulation
+		  * Computational economics
