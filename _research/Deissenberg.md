@@ -12,4 +12,4 @@ Book chapter.
 Macroprudential capital requirements based on market and network based measures of systemic-risk are compared in a macro agent-based-model with the financial and real sectors.
 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download abstract here](http://academicpages.github.io/files/Deissenberg_abstract.pdf)
