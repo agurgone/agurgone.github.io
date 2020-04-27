@@ -7,7 +7,9 @@ excerpt: 'Working paper'
 #venue: 'mimeo'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
-Working paper
+
+Working paper.
+This work is a study of borrower-targeted macroprudential instruments in an agent-based-model of the housing and mortgage market.
 
 [Download paper here](http://agurgone.github.io/files/article_CBI.pdf)
 
