@@ -8,4 +8,5 @@ date: 2016-10-01
 location: "Milan, Italy"
 ---
 
-# The course module provides an introduction to the role of credit for financial imbalances and crises.
+
+The course module provides an introduction to the role of credit for financial imbalances and crises.

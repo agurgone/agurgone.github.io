@@ -18,4 +18,4 @@ author_profile: true
 
 Current projects
 ======
-* My current project aims to study the systemic importance of the real estate sector in order to make the case for regional differentiated macroprudential regulation
+My current project aims to study the systemic importance of the real estate sector in order to make the case for regional differentiated macroprudential regulations.
