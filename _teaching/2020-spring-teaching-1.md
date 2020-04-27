@@ -8,13 +8,4 @@ date: 2020-04-01
 location: "Bamberg, Germany"
 ---
 
-#This is a description of a teaching experience. You can use markdown like any other post.
-
-#Heading 1
-#======
-
-#Heading 2
-#======
-
-#Heading 3
-#======
+# The course is addressed to master students. It introduces computational techniques for the simulation of macroeconomic models in Python.

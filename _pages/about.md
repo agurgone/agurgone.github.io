@@ -14,17 +14,10 @@ I am a post-doctoral research fellow at the Institute for Economics at the Unive
 Research interests
 ======
 My research aims to unveil the complex nature of macroeconomics and to investigate real-financial interactions.
-
-		 * Agent-based models
-         * Complexity economics
-         * Macro-financial interactions
-         * Financial networks & systemic-risk 
-         * Macroprudential regulation 
-		 * Computational economics 
-		 
-
-## Unordered Lists (Nested)
-  * List item one 
-  * List item two
-  * List item three
-  * List item four
+##
+  * Agent-based models
+  * Complexity economics
+  * Macro-financial interactions
+  * Financial networks & systemic-risk 
+  * Macroprudential regulation 
+  * Computational economics 
