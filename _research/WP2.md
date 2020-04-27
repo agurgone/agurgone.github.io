@@ -12,7 +12,7 @@ permalink: /research/WP2
 Working paper.
 The paper studies systemic capital buffers under different configurations of financial networks in a model of the macroeconomy with the financial sector and an interbank market.
 
-[Download paper here](http://agurgone.github.io/files/GGI_extended_WEHIA_2020.pdf)
+[Download abstract here](http://agurgone.github.io/files/GGI_extended_WEHIA_2020.pdf)
 
 Recommended citation: Gurgone, A., Iori, G. (2020). "The risk of being all alike: Macroprudential capital buffers for
 SIFIs and systemic groups of banks in an ABM" <i>manuscript in preparation</i>. 1(1).
