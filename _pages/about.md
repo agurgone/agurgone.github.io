@@ -14,7 +14,7 @@ I am a post-doctoral research fellow at the Institute for Economics at the Unive
 Research interests
 ======
 My research aims to unveil the complex nature of macroeconomics and to investigate real-financial interactions.
-##
+
   * Agent-based models
   * Complexity economics
   * Macro-financial interactions
