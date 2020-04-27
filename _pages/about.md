@@ -21,3 +21,10 @@ My research aims to unveil the complex nature of macroeconomics and to investiga
          * Financial networks & systemic-risk 
          * Macroprudential regulation 
 		 * Computational economics 
+		 
+
+## Unordered Lists (Nested)
+  * List item one 
+  * List item two
+  * List item three
+  * List item four
