@@ -26,4 +26,4 @@ My research aims to unveil the complex nature of macroeconomics and to investiga
 Sample code
 ======
   * Phase diagram
-  https://nbviewer.jupyter.org/github/agurgone/JupNote_Galor/blob/master/Galor_example.ipynb
+  https://nbviewer.jupyter.org/github/agurgone/Galor_ex/blob/master/Galor_example.ipynb
