@@ -25,4 +25,4 @@ My research aims to unveil the complex nature of macroeconomics and to investiga
   
 Sample code
 ======
-  * [Phase diagram](https://nbviewer.jupyter.org/github/agurgone/Galor_ch6/blob/master/Galor_example.ipynb) in Python
+  * [Phase diagram](https://nbviewer.jupyter.org/github/agurgone/Galor_ch6/blob/master/Galor_example.ipynb){:target="_blank"} in Python
