@@ -21,3 +21,9 @@ My research aims to unveil the complex nature of macroeconomics and to investiga
   * Financial networks & systemic-risk 
   * Macroprudential regulation 
   * Computational economics 
+  
+  
+Sample code
+======
+  * Phase diagram
+  https://nbviewer.jupyter.org/github/agurgone/JupNote_Galor/blob/master/Galor_example.ipynb
