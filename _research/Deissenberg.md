@@ -3,7 +3,7 @@ title: "A multi-agent methodology to assess the effectiveness of alternative sys
 collection: research
 permalink: /research/Deissenberg
 excerpt: 'Book chapter'
-date: 2020-12-01
+date: 2020-12-14
 venue: 'Dynamic Analysis in Complex Economic Environments - Essays in Honor of Christophe Deissenberg'
 paperurl: 'https://www.springer.com/gp/book/9783030529697'
 ---
