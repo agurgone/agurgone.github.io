@@ -3,10 +3,9 @@ title: "The Effects of Interbank Networks on Efficiency and Stability in a Macro
 collection: research
 permalink: /research/JEDC
 date: 2018-03-18
-#excerpt: 'Journal article'
+excerpt: 'Journal article'
 venue: 'Journal of Economic Dynamics and Control'
 paperurl: 'https://doi.org/10.1016/j.jedc.2018.03.006'
-#citation: 'Your Name, You. (2018). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
 Journal article.
