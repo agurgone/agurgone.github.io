@@ -1,11 +1,11 @@
 ---
 title: "The interaction of borrower-targeted macroprudential tools in the Irish mortgage market: a baseline multi-agent approach"
-collection: publications
-permalink: /publication/WP1
+collection: research
+permalink: /research/WP1
 excerpt: 'Working paper'
 #date: 2020-10-15
 #venue: 'mimeo'
-#paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708904'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708904'
 ---
 
 Working paper.
