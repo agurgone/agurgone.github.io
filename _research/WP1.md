@@ -13,4 +13,4 @@ This work is a study of borrower-targeted macroprudential instruments in an agen
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708904)
 
-Recommended citation: Gurgone, A. (2020). "The interaction of borrower-targeted macroprudential tools in the Irish mortgage market: a baseline multi-agent approach" <i>Available at SSRN</i>.
+Recommended citation: Gurgone, A. (2020). "The interaction of borrower-targeted macroprudential tools in the Irish mortgage market: a baseline multi-agent approach", <i>Available at SSRN</i>.
