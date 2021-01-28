@@ -9,6 +9,6 @@ location: "Bamberg, Germany"
 ---
 
 
-Teaching + tutorials.
+Lectures + Tutorials.
 
 The course is addressed to master students. It introduces computational techniques for the simulation of macroeconomic models in Python.
