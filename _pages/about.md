@@ -15,13 +15,12 @@ Research interests
 ======
 My research aims to unveil the complex nature of macroeconomics and to investigate real-financial interactions.
 
-  * Agent-based models
+  * Agent-based computational economics
   * Complexity economics
   * Macro-financial interactions
   * Financial networks & systemic-risk 
   * Macroprudential regulation 
-  * Computational economics 
-  
+  * Credit & the housing market  
   
 Sample code
 ======

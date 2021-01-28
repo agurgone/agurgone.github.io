@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Political Economy, University of Bergamo, Italy, 2009
-* M.S. in Economics, University Milan-Bicocca, Italy, 2013
 * Ph.D in Economics and Finance (DEPAP), Catholic University of Milan, Italy, 2017 
+* M.S. in Economics, University Milan-Bicocca, Italy, 2013
+* B.S. in Political Economy, University of Bergamo, Italy, 2009
 
 Experience
 ======
+* 10/2019-3/2021: Postdoctoral researcher
+  * Bamberg University, Germany
+
 * 10/2018-10/2019: Research intern
   * Central Bank of Ireland, Dublin
 

@@ -16,6 +16,6 @@ author_profile: true
 {% endfor %}
 
 
-Current projects
+Current work
 ======
-My current project aims to study the systemic importance of the real estate sector in order to make the case for regional differentiated macroprudential regulations.
+My current work studies the housing and mortgage market from the macroeconomic and financial stability viewpoint through computational methods
