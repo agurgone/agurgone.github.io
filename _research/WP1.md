@@ -9,7 +9,7 @@ paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708904'
 ---
 
 Working paper.
-This work is a study of borrower-targeted macroprudential instruments in an agent-based-model of the housing and mortgage market.
+This work is a study of borrower-targeted macroprudential instruments in an agent-based model of the housing and mortgage market.
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708904)
 

@@ -13,5 +13,5 @@ The paper studies systemic capital buffers under different configurations of fin
 
 [Download paper here](http://agurgone.github.io/files/BERG_164.pdf)
 
-Recommended citation: Gurgone, A., Iori, G., and Gabbi, G. (2020). "Macroprudential capital buffers in heterogeneous banking
+Recommended citation: Gurgone, A., Iori, G. (2020). "Macroprudential capital buffers in heterogeneous banking
 networks. Insights from an ABM with liquidity crises", <i>BERG Working Paper Series, Universität Bamberg.</i>.
