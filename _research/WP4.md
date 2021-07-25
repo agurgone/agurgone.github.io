@@ -12,8 +12,3 @@ Work in progress.
 The paper belongs to the project “Agent-Based Modelling – ABM for energy transition“, which studies energy transition with respect to sustainable growth and climate change. The project brings together the main factors driving the change in global energy dynamics, as well as the technological, economic, and social aspects.
 
 
-#[Download paper here](http://agurgone.github.io/files/BERG
-164.pdf)
-
-#Recommended citation: Gurgone, A., Iori, G. (2020). #"Macroprudential capital buffers in heterogeneous banking
-#networks. Insights from an ABM with liquidity crises", <i>BERG #Working Paper Series, UniversitÃ¤t Bamberg.</i>.
