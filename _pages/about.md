@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral research fellow at the Institute for Economics at the University of Bamberg.
+I am a researcher at the Fondazione Eni Enrico Mattei (FEEM) of Milan.
 
 
 Research interests
@@ -20,7 +20,8 @@ My research aims to unveil the complex nature of macroeconomics and to investiga
   * Macro-financial interactions
   * Financial networks & systemic-risk 
   * Macroprudential regulation 
-  * Credit & the housing market  
+  * Credit & the housing market
+  * Green transition & climate change
   
 Sample code
 ======

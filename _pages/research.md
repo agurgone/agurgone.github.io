@@ -18,4 +18,5 @@ author_profile: true
 
 Current work
 ======
-My current work studies the housing and mortgage market from the macroeconomic and financial stability viewpoint through computational methods
+I'm currently working on the macroeconomic impact of energy transition using agent-based computational methods.
+

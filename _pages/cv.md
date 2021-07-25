@@ -17,7 +17,10 @@ Education
 
 Experience
 ======
-* 10/2019-3/2021: Postdoctoral researcher
+* 06/2021-ongoing: Researcher
+  * Fondazione Eni Enrico Mattei, Milan
+
+* 10/2019-4/2021: Postdoctoral researcher
   * Bamberg University, Germany
 
 * 10/2018-10/2019: Research intern
