@@ -13,7 +13,6 @@ Macroprudential capital requirements based on market and network based measures 
 
 [Download abstract here](http://agurgone.github.io/files/Deissenberg_abstract.pdf)
 
-Recommended citation: Gurgone, A., Iori, G. (2020). "A multi-agent methodology to assess the effectiveness of alternative
-systemic-risk adjusted capital requirements", forthcoming in Herbert Dawid and Jasmina Arifovic
-(eds.) Dynamic Analysis in Complex Economic Environments: Essays in Honor of Christophe
+Recommended citation: Gurgone, A., Iori, G. (2021). "A multi-agent methodology to assess the effectiveness of alternative
+systemic-risk adjusted capital requirements", Herbert Dawid and Jasmina Arifovic (eds.) Dynamic Analysis in Complex Economic Environments: Essays in Honor of Christophe
 Deissenberg, Springer.
