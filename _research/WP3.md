@@ -1,7 +1,7 @@
 ---
 title: "Effectiveness of Covid19  Policy Interventions in Different Countries and Lessons for the Future"
 collection: research
-permalink: /research/WP3
+permalink: /research/WP2
 excerpt: 'Working paper'
 #date: 2020-10-20
 #venue: 'mimeo'
