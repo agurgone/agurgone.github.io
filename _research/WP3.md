@@ -15,5 +15,3 @@ economic losses, respectively.
 
 
 Recommended citation: 
-Andrade, P.D.S., Barbieri Goes, M.C., Corburger, C., Gallo, E., Gurgone, A., Kerenyi, A., Martínez H., Turco, E. M. & Wang W. (2021). "Effectiveness of Covid19 Policy Interventions in
-Different Countries and Lessons for the Future", mimeo.
