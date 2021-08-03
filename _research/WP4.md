@@ -1,7 +1,7 @@
 ---
 title: "Agent-based modeling of energy transition"
 collection: research
-permalink: /research/WP2
+permalink: /research/WP4
 excerpt: 'Working paper'
 #date: 2020-10-20
 #venue: 'mimeo'
@@ -9,4 +9,4 @@ excerpt: 'Working paper'
 ---
 
 Work in progress.
-The paper belongs to the project "Ageng-Based Modelling - ABM for energy transition", which studies energy transition with respect to sustainable growth and climate change. The project brings together the main factors driving the change in global energy dynamics, as well as the technological, economic, and social aspects.
+The paper belongs to the project "Agent-Based Modelling - ABM for energy transition", which studies energy transition with respect to sustainable growth and climate change. The project brings together the main factors driving the change in global energy dynamics, as well as the technological, economic, and social aspects.
