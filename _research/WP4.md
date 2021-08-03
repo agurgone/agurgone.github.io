@@ -2,7 +2,7 @@
 title: "Agent-based modeling of energy transition"
 collection: research
 permalink: /research/WP4
-excerpt: 'Working paper'
+excerpt: 'Work in progress'
 #date: 2020-10-20
 #venue: 'mimeo'
 #paperurl: 'https://www.uni-bamberg.de/vwl/forschung/wps/'
