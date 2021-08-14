@@ -23,6 +23,13 @@ My research aims to unveil the complex nature of macroeconomics and to investiga
   * Credit & the housing market
   * Green transition & climate change
   
+
+
+Covid19
+======
+  * [Lives vs Livelihoods: Dynamic Diagram](http://agurgone.github.io/files/Fig2_dyn_excess.gif)
+
+
 Sample code
 ======
   * [Phase diagram](https://nbviewer.jupyter.org/github/agurgone/Galor_ch6/blob/master/Galor_example.ipynb){:target="_blank"} in Python
