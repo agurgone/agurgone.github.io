@@ -8,7 +8,7 @@ venue: 'Dynamic Analysis in Complex Economic Environments - Essays in Honor of C
 paperurl: 'https://www.springer.com/gp/book/9783030529697'
 ---
 Book chapter.
-Macroprudential capital requirements based on market and network based measures of systemic-risk are compared in a macro agent-based-model with the financial and real sectors.
+Macroprudential capital requirements based on market and network based measures of systemic-risk are compared in a macro agent-based-model with the financial and real sectors.     
 
 
 [Download abstract here](http://agurgone.github.io/files/Deissenberg_abstract.pdf)
