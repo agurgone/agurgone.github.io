@@ -16,7 +16,3 @@ author_profile: true
 {% endfor %}
 
 
-Current work
-======
-I'm currently working on the macroeconomic impact of energy transition using agent-based computational methods.
-

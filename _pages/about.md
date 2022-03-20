@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the Fondazione Eni Enrico Mattei (FEEM) of Milan.
-
+I am an economist by training (BA. M.Sc. Ph.D.) and a senior data scientist at Whiteshield in Dubai.
+I dabble in computational models using a complexity approach, especially - but not limited to - agent-based models.
 
 Research interests
 ======
@@ -17,6 +17,7 @@ My research aims to unveil the complex nature of macroeconomics and to investiga
 
   * Agent-based computational economics
   * Complexity economics
+  * Computable General Equilibrium
   * Macro-financial interactions
   * Financial networks & systemic-risk 
   * Macroprudential regulation 

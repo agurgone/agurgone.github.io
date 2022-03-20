@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics and Finance (DEPAP), Catholic University of Milan, Italy, 2017 
-* M.S. in Economics, University Milan-Bicocca, Italy, 2013
-* B.S. in Political Economy, University of Bergamo, Italy, 2009
+* Ph.D. in Economics and Finance (DEPAP), Catholic University of Milan, Italy, December 2017 
+* M.Sc. in Economics, University Milan-Bicocca, Italy, 2013
+* BA in Political Economy, University of Bergamo, Italy, 2009
 
 Experience
 ======
-* 06/2021-ongoing: Researcher
+* 01/2022-ongoing: Senior Data Scientist
+  * Whiteshield, Dubai
+
+* 06/2021-01/2022: Researcher
   * Fondazione Eni Enrico Mattei, Milan
 
 * 10/2019-4/2021: Postdoctoral researcher
