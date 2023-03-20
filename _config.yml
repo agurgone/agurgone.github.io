@@ -228,9 +228,9 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true#
+      comments: true
   # policy
-    - scope:
+  - scope:
       path: ""
       type: policy
     values:
