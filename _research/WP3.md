@@ -12,4 +12,4 @@ The response of governments to the COVID-19 outbreak was foremost oriented to tw
 
 
 Recommended citation: 
-Wang, W., Gurgone, A., Martínez, H., Barbieri Góes, M. C., Gallo, E., Kerényi, Á., ... & Andrade, P. D. (2022). COVID-19 mortality and economic losses: The role of policies and structural conditions. Journal of Risk and Financial Management, 15(8), 354.
+Wang, W., Gurgone, A., Martínez, H., Barbieri Góes, M. C., Gallo, E., Kerényi, Á., ... & Andrade, P. D. (2022). COVID-19 mortality and economic losses: The role of policies and structural conditions. <i>Journal of Risk and Financial Management<i>, 15(8), 354.

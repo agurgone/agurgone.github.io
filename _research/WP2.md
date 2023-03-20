@@ -12,5 +12,5 @@ The paper studies systemic capital buffers under different configurations of fin
 
 [Download paper here](https://www.tandfonline.com/doi/full/10.1080/1351847X.2021.1976664?src=)
 
-Recommended citation: Gurgone, A., Iori, G. (2021). "Macroprudential capital buffers in heterogeneous banking
-networks: insights from an ABM with liquidity crises", <i>The European Journal of Finance</i>.
+Recommended citation: Gurgone, A., Iori, G. (2021). Macroprudential capital buffers in heterogeneous banking
+networks: insights from an ABM with liquidity crises: <i>The European Journal of Finance</i>.
