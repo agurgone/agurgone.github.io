@@ -8,7 +8,6 @@ venue: 'The European Journal of Finance'
 paperurl: 'https://doi.org/10.1080/1351847X.2021.1976664'
 ---
 
-Journal article.
 The paper studies systemic capital buffers under different configurations of financial networks in a model of the macroeconomy with an interbank market.
 
 [Download paper here](https://www.tandfonline.com/doi/full/10.1080/1351847X.2021.1976664?src=)

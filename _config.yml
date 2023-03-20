@@ -180,6 +180,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  policy:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -221,6 +224,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true#
+  # policy
+    - scope:
+      path: ""
+      type: policy
     values:
       layout: single
       author_profile: true
