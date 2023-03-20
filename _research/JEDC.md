@@ -8,7 +8,6 @@ venue: 'Journal of Economic Dynamics and Control'
 paperurl: 'https://doi.org/10.1016/j.jedc.2018.03.006'
 ---
 
-Journal article.
 The paper integrates an interbank market in an agent-based macroeconomic network and studies its effects at different levels of interconnectedness.
 
 [Download paper here](https://doi.org/10.1016/j.jedc.2018.03.006)
