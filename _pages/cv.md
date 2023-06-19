@@ -18,7 +18,7 @@ Education
 Experience
 ======
 * 01/2022-ongoing: Senior Data Scientist
-  * Whiteshield, Dubai
+  * Whiteshield Advisory, Dubai
 
 * 06/2021-01/2022: Researcher
   * Fondazione Eni Enrico Mattei, Milan
@@ -38,8 +38,9 @@ Skills
   * Matlab
   * Python
   * R
+  * Stata
 * Languages
-  * English (advanced)
+  * English (fluent)
   * German (beginner)
   * Italian (native)
 
@@ -48,7 +49,13 @@ Research
   <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-    
+
+Policy
+======
+{% for post in site.policy reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
