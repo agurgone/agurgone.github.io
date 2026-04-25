@@ -17,4 +17,4 @@ Moreover, we micro-found subjective beliefs about future income growth and incom
     Finally, we incorporate this consumption-saving framework into a larger agent-based model of the French economy to assess its properties.
 
 Recommended citation: 
-Barucci, E., Gurgone, A., Iori, G., & Azzone, M. (2025). Central Bank Digital Currency, Flight-to-Quality, and Bank-Runs in an Agent-Based Model. <i>ArXiv<i>, abs/2510.21071.
+Gurgone, A., & Muellbauer, J. (2026). A Quantitative Agent-Based Model of Household Consumption and Saving: Application to French Data. *In preparation*.
