@@ -33,7 +33,7 @@ My research aims to unveil the complex nature of macroeconomics and to investiga
 
 ### Consumption and Expectations
 * [Marginal Propensity to Consume by household group, France](http://agurgone.github.io/files/MPC_distr_FRA.png)
-* [CES income uncertainty and expected income growth, France](http://agurgone.github.io/files/files/income_expectations_uncertainty.png)
+* [CES income uncertainty and expected income growth, France](http://agurgone.github.io/files/income_expectations_uncertainty.png)
 
 ### ABM calibration
 * [Auto and Cross-Correlations with US data](http://agurgone.github.io/files/abmcorrelations.jpg)
