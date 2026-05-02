@@ -19,25 +19,25 @@ redirect_from:
 ## Experience
 
 ### Senior Research Associate & Senior Research Fellow
-**University of Oxford, United Kingdom** | *09/2024 – 09/2026*
+*University of Oxford, United Kingdom | 09/2024 – 09/2026*
 
 ### Senior Economist
-**Whiteshield Advisory, Dubai** | *06/2023 – 09/2024*
+*Whiteshield Advisory, Dubai | 06/2023 – 09/2024*
 
 ### Senior Data Scientist
-**Whiteshield Advisory, Dubai** | *11/2021 – 06/2023*
+*Whiteshield Advisory, Dubai | 11/2021 – 06/2023*
 
 ### Researcher
-**Fondazione Eni Enrico Mattei, Milan** | *06/2021 – 01/2022*
+*Fondazione Eni Enrico Mattei, Milan | 06/2021 – 01/2022*
 
 ### Postdoctoral Researcher
-**Bamberg University, Germany** | *10/2019 – 04/2021*
+*Bamberg University, Germany | 10/2019 – 04/2021*
 
 ### Research Intern
-**Central Bank of Ireland, Dublin** | *10/2018 – 10/2019*
+*Central Bank of Ireland, Dublin | 10/2018 – 10/2019*
 
 ### Research Assistant
-**City, University of London** | *11/2017 – 02/2018*
+*City, University of London | 11/2017 – 02/2018*
 
 ---
 
