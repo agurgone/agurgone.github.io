@@ -31,6 +31,11 @@ My research aims to unveil the complex nature of macroeconomics and to investiga
 
 ## Highlights
 
+### Interactive visualization of BEA price and quantity indexes for goods and services using NIPA tables.
+<a href="https://bea-goods-services.onrender.com/" target="_blank">
+  Launch dashboard →
+</a>
+
 ### Consumption and Expectations
 * [Marginal Propensity to Consume by household group, France](http://agurgone.github.io/files/MPC_distr_FRA.png)
 * [CES income uncertainty and expected income growth, France](http://agurgone.github.io/files/income_expectations_uncertainty.png)
