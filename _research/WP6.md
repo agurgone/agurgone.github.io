@@ -4,7 +4,7 @@ collection: research
 permalink: /research/WP6
 excerpt: 'In Preparation'
 date: 2026-04-01
-venue: 'ArXiv'
+venue: ''
 # paperurl: 'https://arxiv.org/abs/2510.21071'
 ---
 
