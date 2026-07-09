@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrea Gurgone"
 title_separator          : "-"
 name                     : &name "Andrea Gurgone"
-description              : &description "Economist and agent-based modeller"
+description              : &description "Computational Economist and Agent-Based Modeller"
 url                      : https://agurgone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "agurgone/agurgone.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrea Gurgone"
   avatar           : "Andre1.jpg"
-  bio              : "Economist"
+  bio              : "Computational Economist"
   location         : "Oxford"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=tf0pIrMAAAAJ&hl=en&oi=sra"

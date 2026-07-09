@@ -18,6 +18,7 @@ I dabble in computational models using a complexity approach, especially—but n
 My research aims to unveil the complex nature of macroeconomics and to investigate real-financial interactions.
 
 * Agent-based computational economics
+* Heterogeneous agent models
 * Macro-financial interactions
 * Financial networks & systemic-risk 
 * Financial Stability

@@ -19,7 +19,7 @@ redirect_from:
 ## Experience
 
 ### Senior Research Associate & Senior Research Fellow
-*University of Oxford, United Kingdom | 09/2024 – 09/2026*
+*Department of Computer Science and INET, University of Oxford, United Kingdom | 09/2024 – 09/2026*
 
 ### Senior Economist
 *Whiteshield Advisory, Dubai | 06/2023 – 09/2024*
